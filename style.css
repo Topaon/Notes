@@ -1,0 +1,27 @@
+h1{
+    color: rgb(61, 61, 122);
+    background-color: #5499C7;
+    font-size: 50px;
+    text-align: center;
+}
+
+a{
+    font-size: 20px
+}
+
+#liste_comprendre{
+    background-color: rgb(182, 224, 182);
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px
+}
+
+#menu{
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 40px;
+}
+
+.liste_menu{
+    padding-left: 15px;
+}
